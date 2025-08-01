@@ -12,3 +12,4 @@
 
 # Custom host records are listed here.
 0.0.0.0 *.kiwios.io
+0.0.0.0 *.safeframe.googlesyndication.com
